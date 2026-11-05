@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rill-cmd.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-RIll--cmd.github.io-FFD23F?style=for-the-badge&labelColor=111111" alt="Portfolio"></a>
+  <a href="https://cajucomportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-cajucomportfolio.vercel.app-FFD23F?style=for-the-badge&labelColor=111111" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=RIll-cmd&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
@@ -67,4 +67,4 @@ current:    Building the Ascend project series
   <img src="https://raw.githubusercontent.com/RIll-cmd/RIll-cmd/output/snake-light.svg" width="100%" alt="Contribution snake">
 </picture>
 
-<img src="assets/footer.svg" width="100%" alt="Thank you for visiting">
+<a href="https://cajucomportfolio.vercel.app/"><img src="assets/footer.svg" width="100%" alt="Thank you for visiting"></a>

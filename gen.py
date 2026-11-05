@@ -304,7 +304,7 @@ def stats(user):
 
 def footer():
     w, h = 900, 80
-    site = "RILL-CMD.GITHUB.IO"
+    site = "CAJUCOMPORTFOLIO.VERCEL.APP"
     b = [box(4, 4, 876, 60, SCREEN, shadow=8),
          px("THANK YOU FOR VISITING", 28, 27, 2, WHITE),
          px(site, 852 - px_w(site, 2), 27, 2, ACCENT)]
