@@ -24,8 +24,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: commit if changed
         run: |
-          git config user.name "RIll-cmd"
-          git config user.email "143977778+RIll-cmd@users.noreply.github.com"
+          git config user.name "cyrillcajucom"
+          git config user.email "143977778+cyrillcajucom@users.noreply.github.com"
           git add assets
           git diff --cached --quiet || (git commit -m "chore: refresh profile art" && git push)
 

@@ -9,7 +9,7 @@ import urllib.request
 from datetime import datetime, timezone
 from xml.sax.saxutils import escape
 
-LOGIN = "RIll-cmd"
+LOGIN = "cyrillcajucom"
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets")
 
 # Restrained palette: ink, paper, one yellow accent, greys.
@@ -198,7 +198,7 @@ def banner():
         '<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">'
         '<rect width="4" height="1" fill="#ffffff" opacity=".05"/></pattern></defs>',
         box(4, 4, 876, 276, ACCENT, sw=5, shadow=12),
-        px("RILL-CMD", 22, 17, 2, INK),
+        px("CYRILLCAJUCOM", 22, 17, 2, INK),
     ]
     for i in range(3):
         b.append(f'<rect x="{776 + i * 32}" y="14" width="22" height="22" fill="{WHITE}" stroke="{INK}" stroke-width="3"/>')

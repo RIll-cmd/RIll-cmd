@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://cajucomportfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-cajucomportfolio.vercel.app-FFD23F?style=for-the-badge&labelColor=111111" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=RIll-cmd&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=cyrillcajucom&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <img src="assets/h-about.svg" alt="About">
@@ -39,21 +39,21 @@ current:    Building the Ascend project series
 <img src="assets/h-quests.svg" alt="Featured projects">
 
 <p>
-  <a href="https://github.com/RIll-cmd/ascend-hub"><img src="assets/quest-ascend-hub.svg" width="49%" alt="ascend-hub"></a>
-  <a href="https://github.com/RIll-cmd/ascend-core"><img src="assets/quest-ascend-core.svg" width="49%" alt="ascend-core"></a>
-  <a href="https://github.com/RIll-cmd/ascend-vision"><img src="assets/quest-ascend-vision.svg" width="49%" alt="ascend-vision"></a>
+  <a href="https://github.com/cyrillcajucom/ascend-hub"><img src="assets/quest-ascend-hub.svg" width="49%" alt="ascend-hub"></a>
+  <a href="https://github.com/cyrillcajucom/ascend-core"><img src="assets/quest-ascend-core.svg" width="49%" alt="ascend-core"></a>
+  <a href="https://github.com/cyrillcajucom/ascend-vision"><img src="assets/quest-ascend-vision.svg" width="49%" alt="ascend-vision"></a>
   <a href="https://github.com/sutayniee/Wake-Brake"><img src="assets/quest-wake-brake.svg" width="49%" alt="Wake&Brake"></a>
-  <a href="https://github.com/RIll-cmd/Kinsenas-Collection-Agent"><img src="assets/quest-kinsenas-collection-agent.svg" width="49%" alt="Kinsenas Collection Agent"></a>
-  <a href="https://github.com/RIll-cmd/prescriptive-finance"><img src="assets/quest-prescriptive-finance.svg" width="49%" alt="prescriptive-finance"></a>
+  <a href="https://github.com/cyrillcajucom/Kinsenas-Collection-Agent"><img src="assets/quest-kinsenas-collection-agent.svg" width="49%" alt="Kinsenas Collection Agent"></a>
+  <a href="https://github.com/cyrillcajucom/prescriptive-finance"><img src="assets/quest-prescriptive-finance.svg" width="49%" alt="prescriptive-finance"></a>
 </p>
 
 <img src="assets/h-saves.svg" alt="Collections">
 
 <p>
-  <a href="https://github.com/stars/RIll-cmd/lists/flyrank"><img src="assets/save-flyrank.svg" width="49%" alt="FlyRank list"></a>
-  <a href="https://github.com/stars/RIll-cmd/lists/projects-prototypes"><img src="assets/save-projects-prototypes.svg" width="49%" alt="Projects & Prototypes list"></a>
-  <a href="https://github.com/stars/RIll-cmd/lists/software-engineering-showcase"><img src="assets/save-software-engineering-showcase.svg" width="49%" alt="Software Engineering Showcase list"></a>
-  <a href="https://github.com/stars/RIll-cmd/lists/thesis"><img src="assets/save-thesis.svg" width="49%" alt="Thesis list"></a>
+  <a href="https://github.com/stars/cyrillcajucom/lists/flyrank"><img src="assets/save-flyrank.svg" width="49%" alt="FlyRank list"></a>
+  <a href="https://github.com/stars/cyrillcajucom/lists/projects-prototypes"><img src="assets/save-projects-prototypes.svg" width="49%" alt="Projects & Prototypes list"></a>
+  <a href="https://github.com/stars/cyrillcajucom/lists/software-engineering-showcase"><img src="assets/save-software-engineering-showcase.svg" width="49%" alt="Software Engineering Showcase list"></a>
+  <a href="https://github.com/stars/cyrillcajucom/lists/thesis"><img src="assets/save-thesis.svg" width="49%" alt="Thesis list"></a>
 </p>
 
 <img src="assets/h-stats.svg" alt="GitHub stats">
@@ -63,8 +63,8 @@ current:    Building the Ascend project series
 <img src="assets/h-snake.svg" alt="Contributions">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RIll-cmd/RIll-cmd/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/RIll-cmd/RIll-cmd/output/snake-light.svg" width="100%" alt="Contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyrillcajucom/cyrillcajucom/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/cyrillcajucom/cyrillcajucom/output/snake-light.svg" width="100%" alt="Contribution snake">
 </picture>
 
 <a href="https://cajucomportfolio.vercel.app/"><img src="assets/footer.svg" width="100%" alt="Thank you for visiting"></a>
